@@ -1,72 +1,12 @@
-# pLan-Party
-# Problem Statement
-Co-Op/Multiplayer video games require annoying coordination and scheduling with friends in order to play. This requires
-Someone to take initiative to schedule the game
-Everyone to compare/realign their schedules
-Your friends must own the same game
-You have to have friends who play similar games to you
+pLan-Party
+Problem Statement
+Co-Op/Multiplayer video games require annoying coordination and scheduling with friends in order to play. This requires Someone to take initiative to schedule the game Everyone to compare/realign their schedules Your friends must own the same game You have to have friends who play similar games to you
 
-# Solution
-We propose a platform where a user can set up “game instances” that their network can see and join. A user can also view other “game instances” on their network that they can filter and join. 
-Each of these features solves a part of the problems stated above:
-Scheduling a game - the platform allows a user to schedule when they are available, and for others to jump in if they are available. No need to coordinate with specific people.
-Friends owning the same game - the platform allows a user to filter to only games they own
-Have friends that play similar games - the platform helps you discover new games your friends are playing, or find friends that play games you like. 
+Solution
+We propose a platform where a user can set up “game instances” that their network can see and join. A user can also view other “game instances” on their network that they can filter and join. Each of these features solves a part of the problems stated above: Scheduling a game - the platform allows a user to schedule when they are available, and for others to jump in if they are available. No need to coordinate with specific people. Friends owning the same game - the platform allows a user to filter to only games they own Have friends that play similar games - the platform helps you discover new games your friends are playing, or find friends that play games you like.
 
-# MVP (Minimum Viable Product)
-Login/register a user (Brock)
-User profile screen (Brock)
-Input games owned
-Friends list
-Friend request queue (accept/deny)
-Profile Bio/Description
-Main Feed screen (Brandon)
-Navigation: 
-Add/Find friend button - takes you to the Add Friends screen
-Profile Button
-Your game times - when you have games scheduled
-See game instances hosted by users in the current users network
-Host
-Game
-Date/Time
-Space available
-Schedule Instance button - takes you to a Scheduling screen
-Filter instances - filter down to specific games, specific friends, specific times, etc. 
-Add Friends
-Has your user id that someone could input
-Has a box to input a user id
-Scheduling screen (Brandon)
-Create a post that includes the user looking for group, the game being played and maybe a small description of what the plan is
-Platform choice; Steam, PS, Xbox, Switch, etc.
-Select a game (We could have a big list of games that players can choose from including box art and info about game?)
-Date/Time
+MVP (Minimum Viable Product)
+Login/register a user (Brock) User profile screen (Brock) Input games owned Friends list Friend request queue (accept/deny) Profile Bio/Description Main Feed screen (Brandon) Navigation: Add/Find friend button - takes you to the Add Friends screen Profile Button Your game times - when you have games scheduled See game instances hosted by users in the current users network Host Game Date/Time Space available Schedule Instance button - takes you to a Scheduling screen Filter instances - filter down to specific games, specific friends, specific times, etc. Add Friends Has your user id that someone could input Has a box to input a user id Scheduling screen (Brandon) Create a post that includes the user looking for group, the game being played and maybe a small description of what the plan is Platform choice; Steam, PS, Xbox, Switch, etc. Select a game (We could have a big list of games that players can choose from including box art and info about game?) Date/Time
 
-# Stretch
-Tags for scheduling a game (horror, MMO, Friendslop, etc.)
-Instance visibility (i.e. just friends, friends of friends, anyone)
-Crossplay? 
-Search
-Find instances based on games, tags, users, etc.
-Notification for when you have things scheduled
-Notification settings
-Do you want to be notified when a game is coming up? 
-Profile picture
-Links (youtube channel, twitch?)
-Platform Login integration? (Google, Steam, etc.)
-Link friends to Steam profile
-Link games owned to Steam profile
-Pull game catalog from Steam
-Link to google calendar
-Email reminder when game is scheduled
-Review games (letterboxd for games)
-Hover over a game instance in main feed to show what friends are scheduled for it
-Private game instances w/ direct invites to a smaller group (instead of available to all friends)
-Skill level (for competitive games)
-Users can self-select skill level when adding a game to their profile
-Hosts can request specific skill level when scheduling an instance
-DMs
-Cool domain name
-One click launch to start a game
-Host functions
-Kick reservation
-Block user
+Stretch
+Tags for scheduling a game (horror, MMO, Friendslop, etc.) Instance visibility (i.e. just friends, friends of friends, anyone) Crossplay? Search Find instances based on games, tags, users, etc. Notification for when you have things scheduled Notification settings Do you want to be notified when a game is coming up? Profile picture Links (youtube channel, twitch?) Platform Login integration? (Google, Steam, etc.) Link friends to Steam profile Link games owned to Steam profile Pull game catalog from Steam Link to google calendar Email reminder when game is scheduled Review games (letterboxd for games) Hover over a game instance in main feed to show what friends are scheduled for it Private game instances w/ direct invites to a smaller group (instead of available to all friends) Skill level (for competitive games) Users can self-select skill level when adding a game to their profile Hosts can request specific skill level when scheduling an instance DMs Cool domain name One click launch to start a game Host functions Kick reservation Block user
